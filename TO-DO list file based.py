@@ -1,4 +1,3 @@
-todolist = [""]
 running = True
 
 def fileview():
